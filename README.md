@@ -8,6 +8,13 @@ Este repositório é dedicado aos códigos e projetos pessoais desenvolvidos par
 
 <a href="https://github.com/lucasdga1/Codigos-e-projetos-pessoais/blob/main/Table_Scraping.py">Scraping de tabelas</a>
 
+## Timer digital
+* Requisitos: Ter uma plataforma de escrita em Python ou executar no prompt de comando.
+* Instalação: Copiar e colar o código; executar o código
+* Uso: Timer digital simples de horas, minutos e segundos. O input é em segundos
+
+<a href="https://github.com/lucasdga1/Codigos-e-projetos-pessoais/blob/main/Timer.py">Timer</a>
+
 ## Contribuição
 Contribuições são sempre bem-vindas! 
 
