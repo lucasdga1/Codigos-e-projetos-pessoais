@@ -15,6 +15,13 @@ Este repositório é dedicado aos códigos e projetos pessoais desenvolvidos par
 
 <a href="https://github.com/lucasdga1/Codigos-e-projetos-pessoais/blob/main/Timer.py">Timer</a>
 
+## Sorteador de dados D6
+* Requisitos: Ter uma plataforma de escrita em Python ou executar no prompt de comando.
+* Instalação: Copiar e colar o código; executar o código
+* Uso: Fazer sorteio de dados D6 de acordo com a quantidade escolhida pelo usuário
+
+<a href="https://github.com/lucasdga1/Codigos-e-projetos-pessoais/blob/main/Rolador_dados.py">Sorteador de dados</a>
+
 ## Contribuição
 Contribuições são sempre bem-vindas! 
 
